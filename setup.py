@@ -1,5 +1,5 @@
 import pathlib
-import setuptools
+import setuptools == '66'
 from setuptools import find_namespace_packages
 
 
